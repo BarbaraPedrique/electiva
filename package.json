@@ -1,0 +1,18 @@
+{
+  "name": "electiva",
+  "version": "1.0.0",
+  "description": "hola",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Barbara Pedrique",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.12.2",
+    "inquirer": "^9.2.23",
+    "nodemon": "^3.1.3"
+  }
+}
